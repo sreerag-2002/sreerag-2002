@@ -2,10 +2,10 @@
 
 <h1 align="left">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Midhun NK</strong>
+  Hi, I'm <strong>Sreerag K V</strong>
 </h1>
 
-<h3>Full Stack Developer | MERN • Python • Flutter</h3>
+<h3>Full Stack Developer | MERN • Python </h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
